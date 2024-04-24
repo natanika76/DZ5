@@ -1,0 +1,12 @@
+D:\ADONET\DZ5\bin\Debug\DZ5.exe.config
+D:\ADONET\DZ5\bin\Debug\DZ5.exe
+D:\ADONET\DZ5\bin\Debug\DZ5.pdb
+D:\ADONET\DZ5\bin\Debug\EntityFramework.dll
+D:\ADONET\DZ5\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADONET\DZ5\bin\Debug\EntityFramework.xml
+D:\ADONET\DZ5\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADONET\DZ5\obj\Debug\DZ5.csproj.AssemblyReference.cache
+D:\ADONET\DZ5\obj\Debug\DZ5.csproj.CoreCompileInputs.cache
+D:\ADONET\DZ5\obj\Debug\DZ5.csproj.Up2Date
+D:\ADONET\DZ5\obj\Debug\DZ5.exe
+D:\ADONET\DZ5\obj\Debug\DZ5.pdb
